@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">halaton gis</string>
+    <string name="Button1">Бизнес</string>
+    <string name="Button2">Метеогист</string>
+    <string name="TextView">Мое местоположение</string>
+    <string name="Button3">Далее</string>
+    <string name="Zapros">Отправить запрос</string>
+    <string name="Time">Годы</string>
+    <string name="WC">Погодные условия</string>
+    <string name="mest">Местоположение</string>
+    <string name="signup">Регистрация</string>
+    <string name="vxod">Вход</string>
+    <string name="vxod2">Вход в систему</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="voi">Войти</string>
+    <string name="resume">Продолжить</string>
+    <string-array name="Mest">
+        <item>Выберите населенный пункт</item>
+        <item>Нычалах, Аллаиховский район</item>
+        <item>Нюрба, Нюрбинский район</item>
+        <item>Нюрбачан, Нюрбинский район</item>
+        <item>Нюя, Ленский район</item>
+        <item>Нюя Северная, Ленский район</item>
+        <item>Огородтах, Усть-Алданский район</item>
+        <item>Ой, Хангаласский район</item>
+        <item>Оймякон, Оймяконский район</item>
+        <item>Ойотунг, Аллаиховский улус</item>
+        <item>Ойун-Унгуохтах, Кобяйский район</item>
+        <item>Ойусардах, Среднеколымский улус</item>
+        <item>Окоемовка, Усть-Алданского улуса</item>
+    </string-array>
+    <string-array name="time">
+        <item>Год</item>
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+    </string-array>
+    <string-array name="wc">
+        <item>Период</item>
+        <item>2015 - 2035</item>
+        <item>2035 - 2055</item>
+        <item>2055 - 2075</item>
+        <item>2075 - 2095</item>
+        <item>2095 - 2115</item>
+    </string-array>
+</resources>
